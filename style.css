@@ -3,3 +3,16 @@ body {
     font-size: 15px;
     background-color: beige;
 }
+
+h1 {
+    background-color: aquamarine;
+    text-align: center;
+    padding: 15px;
+}
+
+ul,
+ol,
+p {
+    background-color: white;
+    padding: 10px;
+}
